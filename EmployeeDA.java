@@ -1,6 +1,6 @@
 import java.io.FileReader;
 import java.io.FileNotFoundException;
-import java.util.Scanner;
+import java.util.*;
 
 public class EmployeeDA {
     private Employee employee;
